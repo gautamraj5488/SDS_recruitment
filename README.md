@@ -12,9 +12,9 @@ Welcome to the Sticker Selling App! This is a simple mobile application that all
 Note: This app has no backend and is for demonstration purposes only.
 
 Table of Contents
-Features
-Usage
-License
+#Features
+#Usage
+#License
 
 Features
 Browse a collection of stickers.
